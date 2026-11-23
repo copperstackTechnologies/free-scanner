@@ -22,8 +22,8 @@ The script uses the local Android debug signing key because the app currently us
 
    ```json
    {
-     "version": "1.0.1",
-     "apkUrl": "https://github.com/copperstackTechnologies/free-scanner/releases/download/v1.0.1/Free-Scanner-1.0.1.apk",
+     "version": "1.0.0",
+     "apkUrl": "https://github.com/copperstackTechnologies/free-scanner/releases/download/v1.0.0/Free-Scanner-1.0.0.apk",
      "sha256": "64-character-lowercase-SHA256-digest"
    }
    ```
